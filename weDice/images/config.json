@@ -1,0 +1,108 @@
+﻿{
+    "icons": [
+        {
+            "path": "icon/icon1.png", 
+            "appid": "wx899cd47a91233716", 
+            "name": "弹弹球"
+        }, 
+        {
+            "path": "icon/icon2.png", 
+            "appid": "wx2f2a358634a35184", 
+            "name": "微祖玛"
+        }, 
+        {
+            "path": "icon/icon3.png", 
+            "appid": "wx29f2b89bf9eda056", 
+            "name": "大树酒窖"
+        }, 
+        {
+            "path": "icon/icon4.png", 
+            "appid": "wx5054764a3fdfb3b5", 
+            "name": "微骰子"
+        }, 
+        {
+            "path": "icon/icon5.png", 
+            "appid": "wx899cd47a91233716", 
+            "name": "树耳朵"
+        }
+    ], 
+    "swipers": [
+        {
+            "path": "banner/banner1.png", 
+            "appid": "wx29f2b89bf9eda056", 
+            "desc": "大树酒窖"
+        }, 
+        {
+            "path": "banner/banner2.png", 
+            "appid": "wx5054764a3fdfb3b5", 
+            "desc": "微骰子"
+        }, 
+        {
+            "path": "banner/banner3.png", 
+            "appid": "wx899cd47a91233716", 
+            "desc": "弹弹球"
+        }
+    ], 
+    "list": [
+        {
+            "path": "list/icon1.png", 
+            "appid": "wx899cd47a91233716", 
+            "name": "弹弹球", 
+            "desc": "大家都在谈，你也来弹一弹吧！", 
+            "number": "100万+", 
+            "hot": true, 
+            "tags": [
+                "消除类", 
+                "森林风"
+            ]
+        }, 
+        {
+            "path": "list/icon2.png", 
+            "appid": "wx2f2a358634a35184", 
+            "name": "微祖玛", 
+            "desc": "祖玛和他那永不消失的龙珠", 
+            "number": "80万+", 
+            "hot": true, 
+            "tags": [
+                "古老神秘", 
+                "玛雅传说"
+            ]
+        }, 
+        {
+            "path": "list/icon3.png", 
+            "appid": "wx29f2b89bf9eda056", 
+            "name": "大树酒窖", 
+            "desc": "进口啤酒，应有尽有", 
+            "number": "60万+", 
+            "hot": true, 
+            "tags": [
+                "进口啤酒", 
+                "酒类商城"
+            ]
+        }, 
+        {
+            "path": "list/icon4.png", 
+            "appid": "wx5054764a3fdfb3b5", 
+            "name": "微骰子", 
+            "desc": "喝酒摇骰子，只用微骰子", 
+            "number": "80万+", 
+            "hot": false, 
+            "tags": [
+                "小骰子", 
+                "互动神器"
+            ]
+        }, 
+        {
+            "path": "list/icon5.png", 
+            "appid": "wx899cd47a91233716", 
+            "name": "树耳朵", 
+            "desc": "小游戏导航，等你来玩！", 
+            "number": "1万+", 
+            "hot": false, 
+            "tags": [
+                "导航", 
+                "游戏"
+            ]
+        }
+    ]
+}
