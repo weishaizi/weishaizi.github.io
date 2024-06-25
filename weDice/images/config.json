@@ -96,12 +96,12 @@
             "path": "list/icon5.png", 
             "appid": "wx899cd47a91233716", 
             "name": "树耳朵", 
-            "desc": "小游戏导航，等你来玩！", 
+            "desc": "小软件导航，等你来玩！", 
             "number": "1万+", 
             "hot": false, 
             "tags": [
                 "导航", 
-                "游戏"
+                "软件"
             ]
         }
     ]
